@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lamervpn.svg" alt="LamerVPN" width="104" height="104">
+<img src="assets/logo.svg" alt="LamerVPN" width="104" height="104">
 
 # LamerVPN
 
