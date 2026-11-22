@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
   <title id="title">Lamer VPN</title>
-  <rect width="1024" height="1024" fill="#175A3C"/>
-  <path fill="#72D69B" fill-rule="evenodd" d="
+  <rect width="1024" height="1024" fill="#002B1B"/>
+  <path fill="#00ED88" fill-rule="evenodd" d="
       M 471.000 407.774 L 471.000 237.000 412.000 237.000 512.000 120.000 612.000 237.000 553.000 237.000 553.000 407.774
       A 112 112 0 0 1 556.707 409.310 L 677.463 288.554 635.744 246.835 789.186 234.814 777.165 388.256 735.446 346.537 614.690 467.293
       A 112 112 0 0 1 616.226 471.000 L 787.000 471.000 787.000 412.000 904.000 512.000 787.000 612.000 787.000 553.000 616.226 553.000
