@@ -6,7 +6,7 @@
 
 **Интернет без ограничений!**
 
-Современный VPN сервис с возможностями Self Hosted
+Современный VPN сервис с возможностями Self-Hosted
 
 [Подключиться](https://t.me/LamerVPNbot) | [Сайт](https://lamervpn.tatar/) | [Новости](https://t.me/LamerVPN) 
 
