@@ -42,3 +42,5 @@ LTC: `ltc1qjl3589yg6v5vcvkkkud8s3y8plz64hymwt08am` \
 ETH: `0x2d512F747b9a31990F71cB6aAc352684EA80C765` \
 USDT (TON): `UQAoYIEYPruPpJjI1k3dwLBY9981mUH1gB_M19aoiAulY_y9` \
 TRX: `TDLL4Mfa278RNkrRhPTmgmyoUBKzXdAbQp`
+
+Made with <3 by [SonataLab](https://sonatalab.xyz/)
